@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;300;400;600&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Outfit', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url("../../images/sunset-sky2.avif");
+  color: rgba(248, 248, 248, 0.692);
+}
+
+code {
+  font-family: 'Outfit', sans-serif;
+}

@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ForecastSummary renders forecast details 1`] = `
+<DocumentFragment>
+  <div
+    class="forecast-details"
+    data-testid="forecast-details"
+  >
+    <div
+      class="forecast-details__date"
+    >
+      <h2
+        class="forecast-details__date"
+      >
+        Monday, 30 April
+      </h2>
+    </div>
+    <div
+      class="forecast-details__temperature"
+      data-testid="temperature-div"
+    >
+      <div
+        class="forecast-details__max-temperature"
+        data-testid="temperature-div__max"
+      >
+        High: 12°C
+      </div>
+      <div
+        class="forecast-details__min-temperature"
+        data-testid="temperature-div__min"
+      >
+        Low: 12°C
+      </div>
+    </div>
+    <div
+      class="forecast-details__humidity"
+    >
+      Humidity: 80%
+    </div>
+    <div
+      class="forecast-details__wind"
+    >
+      Wind: 30mph s
+    </div>
+  </div>
+</DocumentFragment>
+`;
